@@ -1,0 +1,3 @@
+# SeminararbeitNeu
+
+A readme
